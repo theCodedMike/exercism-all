@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 4.0)
+project(exercism-cpp)
+
+add_subdirectory(hello-world)
+add_subdirectory(lasagna)
+add_subdirectory(last-will)
+add_subdirectory(pacman-rules)
+add_subdirectory(leap)
+add_subdirectory(space-age)
+add_subdirectory(triangle)
+add_subdirectory(grains)
+add_subdirectory(raindrops)
+add_subdirectory(pangram)
