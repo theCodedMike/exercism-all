@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 4.0)
 project(exercism-cpp)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(exercism-cpp main.cpp)
 
 add_subdirectory(hello-world)
 add_subdirectory(lasagna)
@@ -12,3 +16,4 @@ add_subdirectory(grains)
 add_subdirectory(raindrops)
 add_subdirectory(pangram)
 add_subdirectory(two-fer)
+add_subdirectory(grade-school)

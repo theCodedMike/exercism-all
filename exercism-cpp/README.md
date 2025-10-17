@@ -11,4 +11,5 @@ Welcome to C++ in Exercism!
 8. [grains](./grains) 指数运算、整数左移
 9. [raindrops](./raindrops) 字符串
 10. [pangram](./pangram) bitset
-11. [two-fer](./two-fer)
+11. [two-fer](./two-fer) 字符串格式化
+12. [grade-school](./grade-school) 类、字典
