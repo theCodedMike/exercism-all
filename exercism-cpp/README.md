@@ -13,4 +13,5 @@ Welcome to C++ in Exercism!
 10. [pangram](./pangram) bitset
 11. [two-fer](./two-fer) 字符串格式化
 12. [grade-school](./grade-school) 类、字典
-13. [hamming](./hamming)
+13. [hamming](./hamming) 字符串
+14. [nucleotide-count](./nucleotide-count) 字符串、字典
