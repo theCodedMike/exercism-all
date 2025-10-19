@@ -15,4 +15,5 @@ Welcome to C++ in Exercism!
 12. [grade-school](./grade-school) 类、字典
 13. [hamming](./hamming) 字符串
 14. [nucleotide-count](./nucleotide-count) 字符串、字典
-15. [rna-transcription](./rna-transcription)
+15. [rna-transcription](./rna-transcription) 函数重载
+16. [collatz-conjecture](./collatz-conjecture) 递归、循环
