@@ -18,3 +18,4 @@ Welcome to C++ in Exercism!
 15. [rna-transcription](./rna-transcription) 函数重载
 16. [collatz-conjecture](./collatz-conjecture) 递归、循环
 17. [nth-prime](./nth-prime) 质数
+18. [queen-attack](./queen-attack) 类、pair
