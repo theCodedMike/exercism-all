@@ -17,3 +17,4 @@ Welcome to C++ in Exercism!
 14. [nucleotide-count](./nucleotide-count) 字符串、字典
 15. [rna-transcription](./rna-transcription) 函数重载
 16. [collatz-conjecture](./collatz-conjecture) 递归、循环
+17. [nth-prime](./nth-prime) 质数
