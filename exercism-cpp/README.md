@@ -22,3 +22,4 @@ Welcome to C++ in Exercism!
 19. [say](./say) `hard` 数字分割、字符串拼接、递归、循环
 20. [gigasecond](./gigasecond) `easy` boost-date_time库
 21. [secret-handshake](./secret-handshake) `easy` 位运算
+22. [sum-of-multiples](./sum-of-multiples) `easy` 算术运算
