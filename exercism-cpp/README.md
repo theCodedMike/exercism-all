@@ -21,3 +21,4 @@ Welcome to C++ in Exercism!
 18. [queen-attack](./queen-attack) `medium` 类、pair
 19. [say](./say) `hard` 数字分割、字符串拼接、递归、循环
 20. [gigasecond](./gigasecond) `easy` boost-date_time库
+21. [secret-handshake](./secret-handshake) `easy` 位运算
