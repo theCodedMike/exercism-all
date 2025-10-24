@@ -23,3 +23,4 @@ Welcome to C++ in Exercism!
 20. [gigasecond](./gigasecond) `easy` boost-date_time库
 21. [secret-handshake](./secret-handshake) `easy` 位运算
 22. [sum-of-multiples](./sum-of-multiples) `easy` 算术运算
+23. [robot-name](./robot-name) `medium` 随机数生成
