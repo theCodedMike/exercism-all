@@ -25,3 +25,4 @@ Welcome to C++ in Exercism!
 22. [sum-of-multiples](./sum-of-multiples) `easy` 算术运算
 23. [robot-name](./robot-name) `medium` 随机数生成、set
 24. [clock](./clock) `medium` 类、时间处理
+25. [meetup](./meetup) `medium` 类、日期处理
