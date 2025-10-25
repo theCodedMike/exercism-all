@@ -26,3 +26,4 @@ Welcome to C++ in Exercism!
 23. [robot-name](./robot-name) `medium` 随机数生成、set
 24. [clock](./clock) `medium` 类、时间处理
 25. [meetup](./meetup) `medium` 类、日期处理
+26. [beer-song](./beer-song) `medium` 字符串拼接
