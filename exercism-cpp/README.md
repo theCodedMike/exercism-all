@@ -28,4 +28,5 @@ Welcome to C++ in Exercism!
 25. [meetup](./meetup) `medium` 类、日期处理
 26. [beer-song](./beer-song) `medium` 字符串拼接
 27. [binary-search](./binary-search) `medium` 二分查找
-28. [phone-number](./phone-number) `medium` 
+28. [phone-number](./phone-number) `medium` 字符串、正则表达式
+29. [series](./series) `medium`
