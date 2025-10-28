@@ -32,3 +32,4 @@ Welcome to C++ in Exercism!
 29. [series](./series) `medium` 字符串分割
 30. [complex-numbers](./complex-numbers) `medium` 类、复数运算
 31. [food-chain](./food-chain) `medium` 字符串拼接 *
+32. [roman-numerals](./roman-numerals) `medium` 字符串、循环
