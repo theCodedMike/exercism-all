@@ -37,3 +37,6 @@ add_subdirectory(series)
 add_subdirectory(complex-numbers)
 add_subdirectory(food-chain)
 add_subdirectory(roman-numerals)
+add_subdirectory(word-count)
+
+
