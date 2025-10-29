@@ -34,3 +34,4 @@ Welcome to C++ in Exercism!
 31. [food-chain](./food-chain) `medium` 字符串拼接 *
 32. [roman-numerals](./roman-numerals) `medium` 字符串、循环
 33. [word-count](./word-count) `medium` 字符串、循环、正则
+34. [circular-buffer](./circular-buffer) `medium` 模板、类
