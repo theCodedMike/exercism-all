@@ -39,4 +39,4 @@ add_subdirectory(food-chain)
 add_subdirectory(roman-numerals)
 add_subdirectory(word-count)
 add_subdirectory(circular-buffer)
-
+add_subdirectory(crypto-square)
