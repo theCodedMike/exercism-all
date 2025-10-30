@@ -36,3 +36,4 @@ Welcome to C++ in Exercism!
 33. [word-count](./word-count) `medium` 字符串、循环、正则
 34. [circular-buffer](./circular-buffer) `medium` 模板、类
 35. [crypto-square](./crypto-square) `medium` 字符串
+36. [etl](./etl) `easy` map操作
