@@ -37,3 +37,4 @@ Welcome to C++ in Exercism!
 34. [circular-buffer](./circular-buffer) `medium` 模板、类
 35. [crypto-square](./crypto-square) `medium` 字符串
 36. [etl](./etl) `easy` map操作
+37. [anagram](./anagram) `medium` 字符串操作
