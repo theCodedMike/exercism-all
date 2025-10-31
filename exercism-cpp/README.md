@@ -38,3 +38,4 @@ Welcome to C++ in Exercism!
 35. [crypto-square](./crypto-square) `medium` 字符串
 36. [etl](./etl) `easy` map操作
 37. [anagram](./anagram) `medium` 字符串操作
+38. [binary-search-tree](./binary-search-tree) `hard` 类、模板、二叉搜索树
