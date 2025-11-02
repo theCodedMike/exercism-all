@@ -46,3 +46,5 @@ add_subdirectory(binary-search-tree)
 add_subdirectory(acronym)
 add_subdirectory(binary)
 add_subdirectory(isogram)
+add_subdirectory(pascals-triangle)
+
