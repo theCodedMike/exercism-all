@@ -43,3 +43,4 @@ Welcome to C++ in Exercism!
 40. [binary](./binary) `easy` 字符串、二进制
 41. [[isogram](./isogram)] `easy` 字符串操作
 42. [pascals-triangle](./pascals-triangle) `easy` vector、循环
+43. [perfect-numbers](./perfect-numbers) `easy` 质数、完美数

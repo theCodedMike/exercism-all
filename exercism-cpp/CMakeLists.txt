@@ -47,4 +47,4 @@ add_subdirectory(acronym)
 add_subdirectory(binary)
 add_subdirectory(isogram)
 add_subdirectory(pascals-triangle)
-
+add_subdirectory(perfect-numbers)
