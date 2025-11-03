@@ -44,3 +44,4 @@ Welcome to C++ in Exercism!
 41. [[isogram](./isogram)] `easy` 字符串操作
 42. [pascals-triangle](./pascals-triangle) `easy` vector、循环
 43. [perfect-numbers](./perfect-numbers) `easy` 质数、完美数
+44. [scrabble-score](./scrabble-score) `easy` 字典、字符串
