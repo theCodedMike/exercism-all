@@ -45,3 +45,4 @@ Welcome to C++ in Exercism!
 42. [pascals-triangle](./pascals-triangle) `easy` vector、循环
 43. [perfect-numbers](./perfect-numbers) `easy` 质数、完美数
 44. [scrabble-score](./scrabble-score) `easy` 字典、字符串
+45. [all-your-base](./all-your-base) `medium` 进制转换
