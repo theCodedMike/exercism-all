@@ -48,3 +48,4 @@ Welcome to C++ in Exercism!
 45. [all-your-base](./all-your-base) `medium` 进制转换
 46. [robot-simulator](./robot-simulator) `medium` 类、枚举
 47. [bank-account](./bank-account) `hard` 类、并发、锁
+48. [largest-series-product](./largest-series-product) `medium` 字符串
