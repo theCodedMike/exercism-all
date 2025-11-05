@@ -47,3 +47,4 @@ Welcome to C++ in Exercism!
 44. [scrabble-score](./scrabble-score) `easy` 字典、字符串
 45. [all-your-base](./all-your-base) `medium` 进制转换
 46. [robot-simulator](./robot-simulator) `medium` 类、枚举
+47. [bank-account](./bank-account) `hard` 类、并发、锁
