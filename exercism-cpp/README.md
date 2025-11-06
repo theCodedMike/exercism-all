@@ -49,3 +49,4 @@ Welcome to C++ in Exercism!
 46. [robot-simulator](./robot-simulator) `medium` 类、枚举
 47. [bank-account](./bank-account) `hard` 类、并发、锁
 48. [largest-series-product](./largest-series-product) `medium` 字符串
+49. [isbn-verifier](./isbn-verifier) `easy` 字符串
