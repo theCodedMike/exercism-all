@@ -50,3 +50,4 @@ Welcome to C++ in Exercism!
 47. [bank-account](./bank-account) `hard` 类、并发、锁
 48. [largest-series-product](./largest-series-product) `medium` 字符串
 49. [isbn-verifier](./isbn-verifier) `easy` 字符串
+50. [linked-list](./linked-list) `medium` 双链表、智能指针
