@@ -51,3 +51,4 @@ Welcome to C++ in Exercism!
 48. [largest-series-product](./largest-series-product) `medium` 字符串
 49. [isbn-verifier](./isbn-verifier) `easy` 字符串
 50. [linked-list](./linked-list) `medium` 双链表、智能指针
+51. [simple-linked-list](./simple-linked-list) `medium` 单链表、指针
