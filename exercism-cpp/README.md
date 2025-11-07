@@ -41,7 +41,7 @@ Welcome to C++ in Exercism!
 38. [binary-search-tree](./binary-search-tree) `hard` 类、模板、二叉搜索树
 39. [acronym](./acronym) `easy` 字符串、正则
 40. [binary](./binary) `easy` 字符串、二进制
-41. [[isogram](./isogram)] `easy` 字符串操作
+41. [isogram](./isogram) `easy` 字符串操作
 42. [pascals-triangle](./pascals-triangle) `easy` vector、循环
 43. [perfect-numbers](./perfect-numbers) `easy` 质数、完美数
 44. [scrabble-score](./scrabble-score) `easy` 字典、字符串
@@ -52,3 +52,4 @@ Welcome to C++ in Exercism!
 49. [isbn-verifier](./isbn-verifier) `easy` 字符串
 50. [linked-list](./linked-list) `medium` 双链表、智能指针
 51. [simple-linked-list](./simple-linked-list) `medium` 单链表、指针
+52. [diamond](./diamond) `easy` 循环、数组
