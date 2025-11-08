@@ -54,3 +54,4 @@ Welcome to C++ in Exercism!
 51. [simple-linked-list](./simple-linked-list) `medium` 单链表、指针
 52. [diamond](./diamond) `easy` 循环、数组
 53. [run-length-encoding](./run-length-encoding) `easy` 字符串、循环
+54. [resistor-color](./resistor-color) `easy` 
