@@ -54,5 +54,6 @@ Welcome to C++ in Exercism!
 51. [simple-linked-list](./simple-linked-list) `medium` 单链表、指针
 52. [diamond](./diamond) `easy` 循环、数组
 53. [run-length-encoding](./run-length-encoding) `easy` 字符串、循环
-54. [resistor-color](./resistor-color) `easy` 顺序容器、遍历
-55. [resistor-color-duo](./resistor-color-duo) `easy` 容器、索引
+54. [resistor-color](./resistor-color) `easy` vector、遍历
+55. [resistor-color-duo](./resistor-color-duo) `easy` vector、索引
+56. [flower-field](./flower-field) `medium` 二维vector、字符串
