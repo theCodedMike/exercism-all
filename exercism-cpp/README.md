@@ -58,3 +58,4 @@ Welcome to C++ in Exercism!
 55. [resistor-color-duo](./resistor-color-duo) `easy` vector、索引
 56. [flower-field](./flower-field) `medium` 二维vector、字符串
 57. [sublist](./sublist) `medium` vector、遍历
+58. [zebra-puzzle](./zebra-puzzle) `medium` 逻辑、数组 *
