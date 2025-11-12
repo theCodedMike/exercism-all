@@ -59,3 +59,4 @@ Welcome to C++ in Exercism!
 56. [flower-field](./flower-field) `medium` 二维vector、字符串
 57. [sublist](./sublist) `medium` vector、遍历
 58. [zebra-puzzle](./zebra-puzzle) `medium` 逻辑、数组 *
+59. [list-ops](./list-ops) `medium` 模板、lambda
