@@ -60,3 +60,4 @@ Welcome to C++ in Exercism!
 57. [sublist](./sublist) `medium` vector、遍历
 58. [zebra-puzzle](./zebra-puzzle) `medium` 逻辑、数组 *
 59. [list-ops](./list-ops) `medium` 模板、lambda
+60. [knapsack](./knapsack) `medium` 动态规划
