@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

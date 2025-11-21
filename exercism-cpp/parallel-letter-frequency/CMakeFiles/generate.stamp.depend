@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/4.1.2/CMakeRCCompiler.cmake
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/4.1.2/CMakeSystem.cmake
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeLists.txt
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+D:/Install/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake

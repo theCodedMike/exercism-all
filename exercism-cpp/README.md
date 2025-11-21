@@ -65,3 +65,4 @@ Welcome to C++ in Exercism!
 62. [yacht](./yacht) `easy` vector、迭代器
 63. [dnd-character](./dnd-character) `easy` 随机数
 64. [spiral-matrix](./spiral-matrix) `medium` 二维vector、循环
+65. [parallel-letter-frequency](./parallel-letter-frequency) `medium` 并行、循环

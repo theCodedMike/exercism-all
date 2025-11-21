@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\CMakeFiles\23f1a8135d448f5712ba0641063e8c28\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E59984B-ADC5-307B-8439-9885D719FB3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/parallel-letter-frequency.dir
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/test_parallel-letter-frequency.dir
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/ALL_BUILD.dir
+D:/Code/exercism-all/exercism-cpp/parallel-letter-frequency/CMakeFiles/ZERO_CHECK.dir

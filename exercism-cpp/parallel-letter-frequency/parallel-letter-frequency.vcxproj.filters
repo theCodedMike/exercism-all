@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\parallel_letter_frequency_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\parallel_letter_frequency.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\test\tests-main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\parallel_letter_frequency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Code\exercism-all\exercism-cpp\parallel-letter-frequency\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{676F653E-76B3-3770-861F-8E2C395FDE91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E175BE1E-F97B-3E2E-BFC6-DB9BCCC5638B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
