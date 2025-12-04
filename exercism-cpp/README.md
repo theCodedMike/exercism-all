@@ -66,3 +66,4 @@ Welcome to C++ in Exercism!
 63. [dnd-character](./dnd-character) `easy` 随机数
 64. [spiral-matrix](./spiral-matrix) `medium` 二维vector、循环
 65. [parallel-letter-frequency](./parallel-letter-frequency) `medium` 并行、循环
+66. [pig-latin](./pig-latin) `medium` 字符串处理
