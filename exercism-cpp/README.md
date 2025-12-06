@@ -31,7 +31,7 @@ Welcome to C++ in Exercism!
 28. [phone-number](./phone-number) `medium` 字符串、正则
 29. [series](./series) `medium` 字符串分割
 30. [complex-numbers](./complex-numbers) `medium` 类、复数运算
-31. [food-chain](./food-chain) `medium` 字符串拼接 *
+31. [food-chain](./food-chain) `medium` <span style="color:red">字符串拼接</span>
 32. [roman-numerals](./roman-numerals) `medium` 字符串、循环
 33. [word-count](./word-count) `medium` 字符串、循环、正则
 34. [circular-buffer](./circular-buffer) `medium` 模板、类
@@ -58,12 +58,13 @@ Welcome to C++ in Exercism!
 55. [resistor-color-duo](./resistor-color-duo) `easy` vector、索引
 56. [flower-field](./flower-field) `medium` 二维vector、字符串
 57. [sublist](./sublist) `medium` vector、遍历
-58. [zebra-puzzle](./zebra-puzzle) `medium` 逻辑、数组 *
+58. [zebra-puzzle](./zebra-puzzle) `medium` <span style="color:red">逻辑、数组</span>
 59. [list-ops](./list-ops) `medium` 模板、lambda
-60. [knapsack](./knapsack) `medium` 动态规划 *
-61. [two-bucket](./two-bucket) `medium` BFS、循环 *
+60. [knapsack](./knapsack) `medium` <span style="color:red">动态规划</span>
+61. [two-bucket](./two-bucket) `medium` <span style="color:red">BFS、循环</span>
 62. [yacht](./yacht) `easy` vector、迭代器
 63. [dnd-character](./dnd-character) `easy` 随机数
 64. [spiral-matrix](./spiral-matrix) `medium` 二维vector、循环
-65. [parallel-letter-frequency](./parallel-letter-frequency) `medium` 并行、循环
+65. [parallel-letter-frequency](./parallel-letter-frequency) `medium` <span style="color:red">并行、循环</span>
 66. [pig-latin](./pig-latin) `medium` 字符串处理
+67. [twelve-days](./twelve-days) `easy` 字符串处理、递归
