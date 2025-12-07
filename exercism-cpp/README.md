@@ -68,3 +68,4 @@ Welcome to C++ in Exercism!
 65. [parallel-letter-frequency](./parallel-letter-frequency) `medium` <span style="color:red">并行、循环</span>
 66. [pig-latin](./pig-latin) `medium` 字符串处理
 67. [twelve-days](./twelve-days) `easy` 字符串处理、递归
+68. [log-levels](./log-levels) `easy` 字符串处理
