@@ -69,3 +69,4 @@ Welcome to C++ in Exercism!
 66. [pig-latin](./pig-latin) `medium` 字符串处理
 67. [twelve-days](./twelve-days) `easy` 字符串处理、递归
 68. [log-levels](./log-levels) `easy` 字符串处理
+69. [reverse-string](./reverse-string) `easy` 字符串处理
