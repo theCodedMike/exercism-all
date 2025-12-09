@@ -71,3 +71,5 @@ Welcome to C++ in Exercism!
 68. [log-levels](./log-levels) `easy` 字符串处理
 69. [reverse-string](./reverse-string) `easy` 字符串处理、循环
 70. [freelancer-rates](./freelancer-rates) `easy` 整数、浮点数运算
+71. [vehicle-purchase](./vehicle-purchase) `easy` 字符串、浮点数
+72. [interest-is-interesting](./interest-is-interesting) `easy` 浮点数、循环

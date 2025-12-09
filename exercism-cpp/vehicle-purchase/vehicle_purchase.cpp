@@ -9,7 +9,7 @@ namespace vehicle_purchase {
 
     // choose_vehicle recommends a vehicle for selection. It always recommends the
     // vehicle that comes first in lexicographical order.
-    std::string choose_vehicle(std::string option1, std::string option2) {
+    std::string choose_vehicle(const std::string option1, const std::string option2) {
         return (option1 <= option2 ? option1 : option2) + " is clearly the better choice.";
     }
 
