@@ -75,3 +75,4 @@ Welcome to C++ in Exercism!
 72. [interest-is-interesting](./interest-is-interesting) `easy` 浮点数、循环
 73. [making-the-grade](./making-the-grade) `easy` vector、遍历
 74. [ellens-alien-game](./ellens-alien-game) `easy` 类
+75. [difference-of-squares](./difference-of-squares) `easy` 数值运算
