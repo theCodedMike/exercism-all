@@ -77,3 +77,4 @@ Welcome to C++ in Exercism!
 74. [ellens-alien-game](./ellens-alien-game) `easy` 类
 75. [difference-of-squares](./difference-of-squares) `easy` 数值运算
 76. [sieve](./sieve) `medium` 质数判断
+77. [election-day](./election-day) `Learning Exercise` 结构体、引用
