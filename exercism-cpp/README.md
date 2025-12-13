@@ -79,3 +79,4 @@ Welcome to C++ in Exercism!
 76. [sieve](./sieve) `medium` 质数判断
 77. [election-day](./election-day) `Learning Exercise` 结构体、引用
 78. [troll-the-trolls](./troll-the-trolls) `Learning Exercise` 枚举、switch
+79. [doctor-data](./doctor-data) `Learning Exercise` 头文件、类
