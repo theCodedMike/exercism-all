@@ -80,3 +80,4 @@ Welcome to C++ in Exercism!
 77. [election-day](./election-day) `Learning Exercise` 结构体、引用
 78. [troll-the-trolls](./troll-the-trolls) `Learning Exercise` 枚举、switch
 79. [doctor-data](./doctor-data) `Learning Exercise` 头文件、类
+80. [lasagna-master](./lasagna-master) `Learning Exercise` 函数
