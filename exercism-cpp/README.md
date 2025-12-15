@@ -83,3 +83,4 @@ Welcome to C++ in Exercism!
 80. [lasagna-master](./lasagna-master) `Learning Exercise` 函数
 81. [speedywagon](./speedywagon) `Learning Exercise` 指针
 82. [power-of-troy](./power-of-troy) `Learning Exercise` 智能指针
+83. [allergies](./allergies) `easy` 类、位运算
