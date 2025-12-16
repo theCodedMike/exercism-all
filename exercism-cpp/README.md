@@ -84,3 +84,4 @@ Welcome to C++ in Exercism!
 81. [speedywagon](./speedywagon) `Learning Exercise` 指针
 82. [power-of-troy](./power-of-troy) `Learning Exercise` 智能指针
 83. [allergies](./allergies) `easy` 类、位运算
+84. [protein-translation](./protein-translation) `easy` 字符串操作
