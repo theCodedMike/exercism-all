@@ -86,4 +86,5 @@ Welcome to C++ in Exercism!
 83. [allergies](./allergies) `easy` 类、位运算
 84. [protein-translation](./protein-translation) `easy` 字符串操作
 85. [prime-factors](./prime-factors) `medium` 数字运算
-86. [atbash-cipher](./atbash-cipher)  `easy` 字符串操作
+86. [atbash-cipher](./atbash-cipher) `easy` 字符串操作
+87. [trinary](./trinary) `easy` 字符串操作、三进制
