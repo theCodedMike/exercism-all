@@ -89,3 +89,4 @@ Welcome to C++ in Exercism!
 86. [atbash-cipher](./atbash-cipher) `easy` 字符串操作
 87. [trinary](./trinary) `easy` 字符串操作、三进制
 88. [bob](./bob) `medium` 字符串操作
+89. [matching-brackets](./matching-brackets) `easy` 栈、括号匹配
