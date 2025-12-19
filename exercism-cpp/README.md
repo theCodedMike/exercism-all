@@ -90,3 +90,4 @@ Welcome to C++ in Exercism!
 87. [trinary](./trinary) `easy` 字符串操作、三进制
 88. [bob](./bob) `medium` 字符串操作
 89. [matching-brackets](./matching-brackets) `easy` 栈、括号匹配
+90. [luhn](./luhn) `easy` 字符串操作

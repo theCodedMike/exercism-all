@@ -1,7 +1,4 @@
 #include "matching_brackets.h"
-
-#include <algorithm>
-
 #include "stack"
 
 namespace matching_brackets {
