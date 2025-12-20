@@ -92,3 +92,4 @@ Welcome to C++ in Exercism!
 89. [matching-brackets](./matching-brackets) `easy` 栈、括号匹配
 90. [luhn](./luhn) `easy` 字符串操作
 91. [armstrong-numbers](./armstrong-numbers) `easy` 数字运算
+92. [hexadecimal](./hexadecimal) `easy` 16进制转10进制
