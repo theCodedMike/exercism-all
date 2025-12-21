@@ -95,3 +95,4 @@ Welcome to C++ in Exercism!
 92. [hexadecimal](./hexadecimal) `easy` 16进制转10进制
 93. [darts](./darts) `easy` 数字运算
 94. [high-scores](./high-scores) `medium` 容器vector、排序
+95. [eliuds-eggs](./eliuds-eggs) `easy` 位运算
