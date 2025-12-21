@@ -94,3 +94,4 @@ Welcome to C++ in Exercism!
 91. [armstrong-numbers](./armstrong-numbers) `easy` 数字运算
 92. [hexadecimal](./hexadecimal) `easy` 16进制转10进制
 93. [darts](./darts) `easy` 数字运算
+94. [high-scores](./high-scores) `medium` 容器vector、排序
