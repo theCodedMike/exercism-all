@@ -96,4 +96,5 @@ Welcome to C++ in Exercism!
 93. [darts](./darts) `easy` 数字运算
 94. [high-scores](./high-scores) `medium` 容器vector、排序
 95. [eliuds-eggs](./eliuds-eggs) `easy` 位运算
-96. [rotational-cipher](./rotational-cipher) `easy` 字符处理
+96. [rotational-cipher](./rotational-cipher) `easy` 字符串操作
+97. [kindergarten-garden](./kindergarten-garden) `easy` 字符串操作、枚举
