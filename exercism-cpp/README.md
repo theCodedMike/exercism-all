@@ -99,3 +99,4 @@ Welcome to C++ in Exercism!
 96. [rotational-cipher](./rotational-cipher) `easy` 字符串操作
 97. [kindergarten-garden](./kindergarten-garden) `easy` 字符串操作、枚举
 98. [rail-fence-cipher](./rail-fence-cipher) `medium` 容器vector、字符串处理
+99. [affine-cipher](./affine-cipher) `medium` 字符串处理
